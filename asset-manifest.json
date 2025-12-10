@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-day-3/static/css/main.63468ef4.css",
+    "main.js": "/react-day-3/static/js/main.3982d174.js",
+    "index.html": "/react-day-3/index.html",
+    "main.63468ef4.css.map": "/react-day-3/static/css/main.63468ef4.css.map",
+    "main.3982d174.js.map": "/react-day-3/static/js/main.3982d174.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63468ef4.css",
+    "static/js/main.3982d174.js"
+  ]
+}
